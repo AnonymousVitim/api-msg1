@@ -23,7 +23,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  VitinBotz__|"
 echo "|__________| $merah"
 echo "                     _________________________________"
 echo "                    | Ferramenta de login secundário  |"
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  VitinBotz__|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |      |"
+echo "    |      | VitinBotz |      |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
